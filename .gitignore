@@ -1,0 +1,6 @@
+#IGNORE LOG FILES
+*.logs
+.env
+.ds
+# login.py
+# *.gitignore
